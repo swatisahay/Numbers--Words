@@ -84,7 +84,8 @@ namespace NumbersToWords
       //Tens
 
         string teenResult = teenCheck(remainder2);
-        if (teenResult != number.ToString()) {
+        if (teenResult != remainder2.ToString())
+        {
           return teenResult;
         }
 
