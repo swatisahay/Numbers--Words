@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/NumbersToWords/Numbers/bin/Debug/netcoreapp1.1/Numbers.deps.json
+/Users/Guest/Desktop/NumbersToWords/Numbers/obj/Debug/netcoreapp1.1/Numbers.AssemblyInfo.cs
+/Users/Guest/Desktop/NumbersToWords/Numbers/bin/Debug/netcoreapp1.1/Numbers.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers/bin/Debug/netcoreapp1.1/Numbers.pdb
+/Users/Guest/Desktop/NumbersToWords/Numbers/obj/Debug/netcoreapp1.1/Numbers.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers/obj/Debug/netcoreapp1.1/Numbers.pdb

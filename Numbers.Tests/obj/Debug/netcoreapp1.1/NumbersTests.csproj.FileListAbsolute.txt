@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/NumbersTests.deps.json
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/NumbersTests.runtimeconfig.json
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/NumbersTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/NumbersTests.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/NumbersTests.pdb
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/Numbers.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/bin/Debug/netcoreapp1.1/Numbers.pdb
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/obj/Debug/netcoreapp1.1/NumbersTests.AssemblyInfo.cs
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/obj/Debug/netcoreapp1.1/NumbersTests.dll
+/Users/Guest/Desktop/NumbersToWords/Numbers.Tests/obj/Debug/netcoreapp1.1/NumbersTests.pdb
