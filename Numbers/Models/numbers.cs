@@ -74,13 +74,12 @@ namespace NumbersToWords
       //Hundreds
       quotient2 = number / 100;
       remainder2 = number % 100;
-      foreach(KeyValuePair<int, string> entry in hundreds)
-      {
-        if (quotient2 == entry.Key)
-        {
-          result2 = entry.Value;
-        }
-      }
+
+        //if (hundreds.ContainsKey(quotient2))
+
+           result2 = hundreds[quotient2];
+
+
       //Tens
 
         string teenResult = teenCheck(remainder2);
@@ -91,42 +90,42 @@ namespace NumbersToWords
 
         quotient = remainder2 / 10;
         remainder = remainder2 % 10;
-        foreach(KeyValuePair<int, string> entry in tens)
-        {
-          if (quotient == entry.Key)
+
+
+         if (tens.ContainsKey(quotient))
           {
-            result = result2 + entry.Value;
+           result = result2 + tens[quotient];
           }
-        }
+
       //One
         quotient1 = remainder / 1;
         remainder1 = remainder % 1;
-        foreach(KeyValuePair<int, string> entry in ones)
-        {
-          if (quotient1 == entry.Key)
+
+
+          if (ones.ContainsKey(quotient1))
           {
-            finalResult = entry.Value;
+            finalResult = ones[quotient1];
             finalResult = result + finalResult;
           }
-        }
+
 
         return finalResult;
     }
     public string teenCheck(int number)
     {
-      foreach(KeyValuePair<int, string> entry in teens)
-      {
-        if (number == entry.Key)
-        {
-          return result2 + entry.Value;
-        }
-      }
+
+
+       if (teens.ContainsKey(number))
+          {
+           return result2 + teens[number];
+          }
+
       return number.ToString();
     }
   }
-  class MainCalculation
+  public class MainCalculation
   {
-    static void Main()
+   public static void Main()
     {
       Console.WriteLine("Enter a number to translate into text!");
       string userInput = Console.ReadLine();
